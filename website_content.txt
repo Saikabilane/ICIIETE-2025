@@ -1,0 +1,112 @@
+𝟮𝟬𝟮6 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗖𝗢𝗡𝗙𝗘𝗥𝗘𝗡𝗖𝗘 𝗢𝗡 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗜𝗡𝗡𝗢𝗩𝗔𝗧𝗜𝗢𝗡𝗦 𝗜𝗡 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗡𝗗 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 (𝗜𝗖𝗜𝗜𝗘𝗧)17𝐭𝐡 - 19𝐭𝐡 February 𝟐𝟎𝟐8
+Department of ECE, PSG College of Technology, Coimbatore, Tamil Nadu, India.
+ABOUT PSG COLLEGE OF TECHNOLOGY
+PSG College of Technology, established in the year 1951 by PSG & Sons Charities, Coimbatore, is one of the premier institutions of the country and is an excellent centre for advanced studies and research in several areas of Science and Engineering, The College has excellent infrastructure, well-equipped laboratories and highly qualified and experienced faculty. The college has signed MoU with research organizations and industries across the globe to promote technology development, training of students, curriculum updating and development of state-of-art centres.
+ABOUT THE DEPARTMENT
+The Department of Electronics and Communication Engineering (ECE), established in 1968, has a rich history of providing quality education and research opportunities in the field of electronics and communication. The department offers a Bachelor of Engineering (BE) program in Electronics and Communication Engineering, which equips students with foundational knowledge and skills essential for a career in this dynamic field. In addition to the undergraduate program, the department offers postgraduate programs, including a Master of Engineering (ME) in VLSI Design, and the Master of Technology (M.Tech) program in Nano Science and Technology. B.E. ECE program is accredited for 6 years from 2018 to 2024 and M.E. VLSI Design program is accredited for 3 years from 2022 to 2025 by the National Board of Accreditation. The strong industry oriented curriculum of the department equips the students with profound knowledge and skills to make a successful career in renowned industries and it has bagged the AICTE-CII award 2013 for the best industry linked institute in the stream of ECE. The department has involved in several projects sponsored by MeitY, DST, DRDO, UGC, AICTE etc.
+ABOUT THE CONFERENCE
+The Conference primarily focuses on providing a global platform for the national and international consortium of Scientists, Researchers, and Practising Engineers from both Academia and Industry to share their creative proposals on cutting-edge technologies. This forum disseminates the technical innovations in theoretical concepts, methodologies, and applications in the fields of Electrical, Electronics and Communication, Computing and Information technologies, and Biomedical Engineering. The conference will incorporate Pre-Conference Workshops, Keynote sessions, Invited Tech-talks, and Oral presentations in various fields of Engineering and Technology for the exchange of research findings. The Conference aims at providing realistic solutions to various problems confronting society, environment, and industry and to achieve Sustainable Development Goals.
+AUTHOR GUIDELINES
+ICIIET 2026 invites full length original research contributions from engineering professionals from industries, R&D organizations, academic institutions, government departments and research scholars from across the world.
+Full length original research contributions and review articles not exceeding six pages as per the IEEE double column format shall be submitted.
+The manuscript should contribute original research ideas, developmental ideas, analysis, findings, results, etc.
+The manuscript should not have been published in any journals/magazines or conference proceedings and not under review in any of them.
+Further the manuscript should contain the name of the corresponding author with e-mail id and affiliation of all author.
+A paper may contain a maximum of 4 authors.
+The faculty/phd Scholars/PG scholars/Industry professionals can be the first author.
+The author of accepted, registered and presented papers are eligible to get the certificate.
+All the submitted manuscripts will be sent for peer review and the corresponding author will be notified the outcome of the review process.
+If reviewers recommended for further improvements in the manuscript, the manuscript will be sent back to the corresponding author and the revised version of the manuscript shall be submitted within seven days on the date of notification.
+Easy Chair Link: https://easychair.org/conferences/?conf=iciiet2022
+TRACKS
+Track 1 Wireless Communication & Networking
+4G, 5G and 6G Technologies
+Optical and Visible Light Communication
+MIMO and Massive MIMO Systems
+Microwave & Millimeter-Wave Techniques
+RF Circuits and Antenna Design
+Green Communications and Energy Efficiency
+Cognitive radio and software defined networks
+Wireless Sensor and Body Area Networks
+Quantum Communication
+Vehicular Networks
+Emergency Communication
+Underwater and Satellite Communication
+RADAR and SONAR Techniques
+Cooperative, compressive, and sparse sensing
+AI in Wireless Communication and Networking
+Track 2  Signal & Image Processing
+Speech and acoustic signal processing
+Nonlinear signal processing
+Optimization methods in signal processing
+Compressed sensing and sparse modelling
+Statistical signal processing
+Signal processing and data fusion for big and multimodal data
+Multimedia signal processing
+Bio-medical signal processing
+Bioinformatics and genomics
+Signal processing for social networks
+Computational imaging
+Image/video and multidimensional signal processing
+Multirate Signal Processing
+AI in Signal and Image Processing
+Track 3 VLSI & Nano Technology
+Analog, Digital & Mixed Signal Design
+Testing & Testable Circuit
+Low Power Circuit Design
+MEMS and NEMS systems
+Device Modeling and Process simulation
+Systems-on-Chip (SoC) and FPGA and Reconfigurable Design
+VLSI Signal Processing
+Nanoelectronic Devices and Nano fabrication techniques
+Nanomaterials and Nano Sensors
+Nanotechnology in Healthcare, Textiles, Cosmetics, Agriculture and Environment
+Nanotechnology in Drug Delivery and Tissue Engineering
+RFID Technologies & RF energy harvesting
+Computational Electromagnetics
+EMI & EMC
+AI in VLSI and Nano Technology
+Track 4  Embedded system & IoT
+Internet of Things
+Robotic design, development and control
+Industrial Control and Automation
+Humanoid robotics
+Virtual environment, VR and AR
+Intelligent control systems and optimization
+Genetic algorithms
+Medical Robotics
+Automation, Control and Engineering
+Underwater Robotics
+Vision system for Robotics
+PLC and SCADA Applications
+AI in Embedded System and IoT
+Track 5 Sustainable Technologies
+Renewable power generation & clean energy technologies
+Integration of renewables and energy storage systems
+Power Quality and Electromagnetic Compatibility
+Electric and Hybrid Vehicles and EV charging systems
+Intelligent Transportation System and Autonomous Vehicles
+Smart grid Technologies and management
+Advanced Digital Technologies for Energy Systems
+Green Computing
+Wastewater treatment
+Sustainable Agriculture
+Sustainable smart City Application
+Healthcare Applications
+Recycling and Reuse of Solid wastes
+Zero Carbon Emission
+Wireless Power Transfer
+AI in Sustainable Technologies
+Track 6 High Performance Computing & Information Security
+Intelligent Fault Detection and Diagnostics
+Machine Learning and Deep Learning Algorithms
+Cognitive Computing, Big Data Systems and Analytics
+Cloud, Edge and Fog Computing and Data Centres
+Distributed Computing techniques
+Computational imaging and Computer games
+Cyber-Physical Systems and Blockchain applications
+Smart Networking and Information Security
+Quantum Computing & Cryptography
+Security issues in Smart, Adaptive & Intelligent Open Systems Technologies
+Parallel programming algorithms
+Hardware Security
